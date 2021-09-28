@@ -2,4 +2,4 @@
   <img src="https://raw.githubusercontent.com/hlissner/doom-emacs/screenshots/cacochan.png" align="right" />
 </a>
 
-[![Boiao Ch's github stats](https://github-readme-stats.vercel.app/api?username=liaobinbin&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&theme=dracula)](https://github.com/liaobinbin)
+[![Boiao Ch's github stats](https://github-readme-stats.vercel.app/api?username=liaobinbin&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/liaobinbin)
