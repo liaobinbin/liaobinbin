@@ -3,3 +3,5 @@
 </a>
 
 [![Boiao Ch's github stats](https://github-readme-stats.vercel.app/api?username=liaobinbin&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/liaobinbin)
+
+<img src="https://github-profile-trophy.vercel.app/?username=liaobinbin&theme=light"  />
