@@ -2,7 +2,9 @@
   <img src="https://raw.githubusercontent.com/hlissner/doom-emacs/screenshots/cacochan.png" align="right" />
 </a>
 
-👋 Hi, I'm ***<a href="https://liaobinbin.com" ><font size="36">Boiao Ch</font></a>***
+👋 Hi, I'm 
+
+[![boiaoch](./boiaoch.svg)](https://liaobinbin.com)
 
 
 An Ordinary Programmer  🚀 🚀 🚀 🚀 🚀
