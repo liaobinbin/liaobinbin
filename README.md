@@ -4,7 +4,7 @@
 
 👋 Hi, I'm 
 
-[![boiaoch](./boiaoch.svg)](https://liaobinbin.com)
+[![boiaoch](./boiaochv2.svg)](https://liaobinbin.com)
 
 
 An Ordinary Programmer  🚀 🚀 🚀 🚀 🚀
